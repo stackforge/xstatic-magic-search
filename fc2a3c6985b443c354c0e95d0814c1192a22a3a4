@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Thai Tran <tqtran@us.ibm.com>
+Workflow+1: Thai Tran <tqtran@us.ibm.com>
+Code-Review+2: Cindy Lu <clu@us.ibm.com>
+Code-Review+1: Aaron Sahlin <asahlin@us.ibm.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 16 Jul 2015 20:51:34 +0000
+Reviewed-on: https://review.openstack.org/202211
+Project: stackforge/xstatic-magic-search
+Branch: refs/heads/master
