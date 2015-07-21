@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: David Lyle <dklyle0@gmail.com>
+Workflow+1: David Lyle <dklyle0@gmail.com>
+Code-Review+1: Dan Nguyen <dan.nguyens.mail@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 21 Jul 2015 21:04:01 +0000
+Reviewed-on: https://review.openstack.org/194803
+Project: stackforge/xstatic-magic-search
+Branch: refs/heads/master
